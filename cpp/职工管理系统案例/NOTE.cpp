@@ -1,0 +1,1 @@
+//delete kidarry[0], 这样才能删除那个kid数组的指针，kidarry[0] = new handkid(1, 1, 1)这样只是换掉了0号位，原来的还在
